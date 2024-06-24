@@ -12,4 +12,4 @@ The Eye of the Cyclone Detection project is dedicated to automating the identifi
 
 ## Output
 The output of the eye of the cyclone image after detection
-<img src="img.png">
+<img src="bbox_2013101213213500V.ppi.jpg">
